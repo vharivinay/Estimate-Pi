@@ -29,5 +29,5 @@ Click 'Plot points' plot the generated random data.
 
 Click 'Estimate Pi' to approixmate the value of Pi.
 
-<img alt="AppScreenshot" aign="left" width="900px" height="600px" src="app1.png" />  
+<img alt="AppScreenshot" aign="left" width="900px" height="600px" src="app2.png" />  
 <hr>
