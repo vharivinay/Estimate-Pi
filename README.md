@@ -8,6 +8,7 @@ use other approaches. Monte Carlo methods are mainly used in three problem class
 numerical integration, and generating draws from a probability distribution.
 
 Link wiki: https://en.wikipedia.org/wiki/Monte_Carlo_method
+
 Link article: https://medium.com/cantors-paradise/estimating-%CF%80-using-monte-carlo-simulations-3459a84b5ef9
 
 This code is an interactive application that estimates the value of pi
