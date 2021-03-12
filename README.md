@@ -14,10 +14,10 @@ Link article: https://medium.com/cantors-paradise/estimating-%CF%80-using-monte-
 This code is an interactive application that estimates the value of pi
 using the unit square unit circle method.
 
-pi = 4 * (number of points in the circle)/(number of points in the square)
-
 Author: Harivinay
+
 Github: github.com/M87K452b
+
 Date: Feb 2021
 
 Note: The animate function is yet to be implemented.
