@@ -28,3 +28,6 @@ Just download and run. Use the slider to adjust the number of points.
 Click 'Plot points' plot the generated random data.
 
 Click 'Estimate Pi' to approixmate the value of Pi.
+
+<img alt="AppScreenshot" aign="left" width="300px" height="600px" src="app1.png" />  
+<hr>
