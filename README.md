@@ -21,3 +21,10 @@ Github: github.com/M87K452b
 Date: Feb 2021
 
 Note: The animate function is yet to be implemented.
+
+### How To: 
+Just download and run. Use the slider to adjust the number of points.
+
+Click 'Plot points' plot the generated random data.
+
+Click 'Estimate Pi' to approixmate the value of Pi.
